@@ -24,7 +24,7 @@ A aplicação consiste em uma ferramenta de controle financeiro que possibilite 
 ### Tela de cadastro
 <div aling="center">
 <img src = "https://github.com/ervissonvidal/readme-finacce/assets/145504019/0439a8e9-ae5b-4f12-a148-33a15f4a2575" width="100px" />
-<img src = "(https://github.com/ervissonvidal/readme-finacce/assets/145504019/2a7a8a05-529c-4175-8cfc-081318a74ffe" width="100px" />
+<img src = "https://github.com/ervissonvidal/readme-finacce/assets/145504019/2a7a8a05-529c-4175-8cfc-081318a74ffe" width="100px" />
 <img src = "https://github.com/ervissonvidal/readme-finacce/assets/145504019/45393104-e988-480b-a74e-53c0f6308625" width="100px" />
 
 
