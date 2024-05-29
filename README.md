@@ -1,4 +1,4 @@
-# Big Game Survey 
+# Finacce
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/ervissonvidal/readme-finacce/blob/main/LICENSE) 
 
 # Sobre o projeto
