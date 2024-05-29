@@ -8,6 +8,7 @@ Finace é uma aplicação em PWA construída durante o 2ª periodo da **Residên
 A aplicação consiste em uma ferramenta de controle financeiro para ajudar o usuário a colocar em prática a realização de seus sonhos e objetivos que requer um certo investimento, onde os dados são armazenados no app mobile, e assim poderar fazer seu controle, que também apresenta um dashboard com gráficos baseados nestes dados.
 
 ## Layout mobile
+### Tela Home. Navegando a home usando scrol dow
 
 <div aling="center">
 <img src = "https://github.com/ervissonvidal/readme-finacce/assets/145504019/5e94f5a5-9b82-4011-9087-c3555177ee47" width="100px" />
